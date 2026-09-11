@@ -1,4 +1,4 @@
-# Sitting-Fotovoltaico :solar_panel:
+# Sitting-Fotovoltaico ☀️🔋
 
 > [Breve descripción del proyecto: qué hace, qué problema resuelve y a quién va dirigido. Rellénalo con los datos de tu proyecto.]
 >
