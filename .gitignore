@@ -1,0 +1,17 @@
+# Datos y archivos locales
+data/
+*.csv
+*.xlsx
+*.json
+
+# Entornos y dependencias
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Entorno de IDE
+.vscode/
+.idea/
+*.swp
