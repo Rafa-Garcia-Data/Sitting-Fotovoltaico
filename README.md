@@ -20,7 +20,7 @@ This project bridges GIS spatial analysis and corporate data modeling. It moves 
 
 ## Cómo funciona (demo) :bulb:
 
-1. **Abre el dashboard:** Abre `powerbi/[dashboard].pbix` con **Power BI Desktop** AQUÍ.
+1. **Abre el dashboard:** Descarga el archivo del proyecto  AQUÍ o accede a  `powerbi/[dashboard].pbix`. Ábrelo  con **Power BI Desktop**.
 2. **Explora el mapa:** Navega por La Sagra sobre el mapa de satélite (Bing Aerial/Hybrid) y localiza los centroides catastrales de cada parcela.
 3. **Inspecciona una parcela:** Pasa el cursor o haz clic sobre cualquier centroide para ver su tooltip: referencia catastral (`nationalCadastralReference`), superficie exacta y potencia estimada.
 4. **Filtra todo en tiempo real:** Tablas, KPIs y el mapa quedan sincronizados (cross-filtering) para evaluar cada emplazamiento al instante.
