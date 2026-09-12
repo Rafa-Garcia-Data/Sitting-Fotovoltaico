@@ -1,5 +1,11 @@
 # Photovoltaic Land Viability Analysis in La Sagra (Toledo) :sun_with_face::battery:
 
+Una herramienta de alto rendimiento de **Business Intelligence** y **SIG**, desarrollada con **Power BI** y **QGIS**, para evaluar la viabilidad técnica, geoespacial y económica de parcelas catastrales destinadas al desarrollo de parques solares fotovoltaicos en la comarca de La Sagra (Toledo, España).
+
+Este proyecto integra el análisis espacial SIG con el modelado de datos corporativos. Va más allá de las simples coordenadas puntuales para procesar centroides catastrales en el sistema **WGS84 (EPSG:4326)**, modelando la superficie de la parcela, la topografía y parámetros financieros clave con el fin de ofrecer un panel interactivo para la selección de emplazamientos de energías renovables.
+
+ENG
+
 A high-performance **Business Intelligence** and **GIS** tool built with **Power BI** and **QGIS** to evaluate the technical, geospatial, and economic viability of cadastral land plots for photovoltaic solar farm development in La Sagra region (Toledo, Spain).
 
 This project bridges GIS spatial analysis and corporate data modeling. It moves beyond simple point coordinates to process cadastral centroids in **WGS84 (EPSG:4326)**, modeling plot area, topographics, and key financial parameters to provide an interactive dashboard for renewable energy site selection.
