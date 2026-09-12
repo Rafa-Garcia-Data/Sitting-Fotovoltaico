@@ -18,19 +18,26 @@ This project bridges GIS spatial analysis and corporate data modeling. It moves 
 
 [![My Skills](https://skillicons.dev/icons?i=python,git,vscode&theme=light)](https://skillicons.dev)
 
-## Cómo funciona :bulb:
+## Cómo funciona (demo) :bulb:
 
-1. **Topographic Assessment:** Classification by terrain slope (`Aptitud_Topografica`).
-2. **Estimated Power Capacity:** Calculated dynamically based on available plot area ($0.5 \text{ MWp/ha}$).
-3. **Financial Estimation:** Yearly land lease cost projections ($1,500 \text{ €/ha/year}$).
-4. **Technical Suitability Score (`Score_Viabilidad`):** An aggregated score ranging from 0 to 100 to prioritize high-yield plots.
-5. **Interactive Dashboard:** Cross-filter maps, KPIs and tables in real time to evaluate each plot's viability.
+1. **Abre el dashboard:** Abre `powerbi/[dashboard].pbix` con **Power BI Desktop**, o accede a la versión publicada en **Power BI Service** mediante el enlace compartido.
+2. **Explora el mapa:** Navega por La Sagra sobre el mapa de satélite (Bing Aerial/Hybrid) y localiza los centroides catastrales de cada parcela.
+3. **Inspecciona una parcela:** Pasa el cursor o haz clic sobre cualquier centroide para ver su tooltip: referencia catastral (`nationalCadastralReference`), superficie exacta y potencia estimada.
+4. **Filtra todo en tiempo real:** Tablas, KPIs y el mapa quedan sincronizados (cross-filtering) para evaluar cada emplazamiento al instante.
+5. **Prioriza parcelas:** Usa el gradiente de `Score_Viabilidad` (0–100) y los colores por aptitud topográfica para preseleccionar las de alto rendimiento.
+
+### ¿Cómo la disfruta otra persona? :partying_face:
+
+- **Enlace compartido (Power BI Service):** publica el `.pbix` en Power BI Service y comparte el enlace; el visitante solo necesita un registro gratuito.
+- **Incrústala en la web (Publicar en web):** Power BI → *Archivo → Publicar en web* te da un enlace/iframe que cualquiera puede abrir **sin cuenta ni instalación**, perfecto para la demo.
+- **Comparte el archivo:** envía el `.pbix` para abrirlo directamente con Power BI Desktop.
 
 ### Requisitos
 
-- Power BI Desktop
-- QGIS (preprocesamiento geoespacial)
-- Datos catastrales de La Sagra (Toledo) en EPSG:4326
+- **Power BI Desktop** (para abrir/editar el `.pbix`).
+- Cuenta gratuita de **Power BI Service** (solo para compartir la demo online).
+- **QGIS** únicamente se usa en el preprocesamiento de datos; **no es necesario** para la demo.
+- Datos catastrales de La Sagra (Toledo) en EPSG:4326.
 
 ## Arquitectura :building_construction:
 
