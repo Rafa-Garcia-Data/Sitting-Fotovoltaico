@@ -72,13 +72,9 @@ Sitting-Fotovoltaico/
 ├── .gitignore                     # Configuración de exclusiones de Git
 ├── README.md                      # Documentación principal del repositorio
 ├── docs/
-│   └── dashboard-preview.png      # Captura de pantalla del dashboard
-├── data/                          # Datos catastrales procesados (EPSG:4326)
-├── qgis/
-│   └── [proyecto].qgz             # Proyecto QGIS con capas y simbología
+│   └── dashboard-powerbi.png      # Captura de pantalla del dashboard
 └── powerbi/
-    ├── [dashboard].pbix           # Modelo Power BI con medidas y DAX
-    └── [conexiones].pbix          # Transformaciones Power Query (M)
+    └── Siting_Fotovoltaico_LaSagra.pbix   # Modelo Power BI con medidas y DAX
 ```
 
 ## Resultados :vertical_traffic_light:
