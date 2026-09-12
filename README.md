@@ -26,12 +26,6 @@ This project bridges GIS spatial analysis and corporate data modeling. It moves 
 4. **Filtra todo en tiempo real:** Tablas, KPIs y el mapa quedan sincronizados (cross-filtering) para evaluar cada emplazamiento al instante.
 5. **Prioriza parcelas:** Usa el gradiente de `Score_Viabilidad` (0–100) y los colores por aptitud topográfica para preseleccionar las de alto rendimiento.
 
-### ¿Cómo la disfruta otra persona? :partying_face:
-
-- **Enlace compartido (Power BI Service):** publica el `.pbix` en Power BI Service y comparte el enlace; el visitante solo necesita un registro gratuito.
-- **Incrústala en la web (Publicar en web):** Power BI → *Archivo → Publicar en web* te da un enlace/iframe que cualquiera puede abrir **sin cuenta ni instalación**, perfecto para la demo.
-- **Comparte el archivo:** envía el `.pbix` para abrirlo directamente con Power BI Desktop.
-
 ### Requisitos
 
 - **Power BI Desktop** (para abrir/editar el `.pbix`).
