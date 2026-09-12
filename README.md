@@ -58,6 +58,15 @@ Dashboard Interactivo (Mapas, KPIs, Tooltips, Cross-Filtering)
 - **Escalable:** Puede aplicarse a cualquier localidad o región concreta, sólo hay que cambiar las referencias catastrales.
 - **Cero fricción:** Descarga el archivo del proyecto de PowerBI y ábrelo en Power BI Desktop.
 
+## Trabajo previo :hammer_and_wrench:
+
+Todo este resultado es fruto del trabajo previo en **QGIS** y del posterior tratamiento de datos en **Power BI**:
+
+- **Recorte y definición de parcelas:** Delimitación de las parcelas de interés a partir de los planos catastrales oficiales.
+- **Localizaciones:** Georreferenciación y emplazamiento preciso de los centroides de cada parcela.
+- **Descarga de mapas:** Obtención de ortofotos y capas base (Bing Aerial/Hybrid) junto con los datos espaciales de La Sagra.
+- **Adición de buffers y reproyecciones de capas:** Generación de zonas de influencia (buffers) y reproyección de las capas a **WGS84 (EPSG:4326)**.
+
 ## Estructura del proyecto :electric_plug:
 
 ```text
