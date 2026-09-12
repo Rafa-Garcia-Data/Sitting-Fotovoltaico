@@ -10,7 +10,7 @@ A high-performance **Business Intelligence** and **GIS** tool built with **Power
 
 This project bridges GIS spatial analysis and corporate data modeling. It moves beyond simple point coordinates to process cadastral centroids in **WGS84 (EPSG:4326)**, modeling plot area, topographics, and key financial parameters to provide an interactive dashboard for renewable energy site selection.
 
-![Dashboard Overview](docs/dashboard-preview.png)
+![Dashboard Overview](docs/dashboard-powerbi.png)
 
 ## Tecnologías :zap:
 
