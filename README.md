@@ -20,7 +20,7 @@ This project bridges GIS spatial analysis and corporate data modeling. It moves 
 
 ## Cómo funciona (demo) :bulb:
 
-1. **Abre el dashboard:** Abre `powerbi/[dashboard].pbix` con **Power BI Desktop**, o accede a la versión publicada en **Power BI Service** mediante el enlace compartido.
+1. **Abre el dashboard:** Abre `powerbi/[dashboard].pbix` con **Power BI Desktop** AQUÍ.
 2. **Explora el mapa:** Navega por La Sagra sobre el mapa de satélite (Bing Aerial/Hybrid) y localiza los centroides catastrales de cada parcela.
 3. **Inspecciona una parcela:** Pasa el cursor o haz clic sobre cualquier centroide para ver su tooltip: referencia catastral (`nationalCadastralReference`), superficie exacta y potencia estimada.
 4. **Filtra todo en tiempo real:** Tablas, KPIs y el mapa quedan sincronizados (cross-filtering) para evaluar cada emplazamiento al instante.
@@ -29,9 +29,7 @@ This project bridges GIS spatial analysis and corporate data modeling. It moves 
 ### Requisitos
 
 - **Power BI Desktop** (para abrir/editar el `.pbix`).
-- Cuenta gratuita de **Power BI Service** (solo para compartir la demo online).
 - **QGIS** únicamente se usa en el preprocesamiento de datos; **no es necesario** para la demo.
-- Datos catastrales de La Sagra (Toledo) en EPSG:4326.
 
 ## Arquitectura :building_construction:
 
