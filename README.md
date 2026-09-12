@@ -14,7 +14,7 @@ This project bridges GIS spatial analysis and corporate data modeling. It moves 
 
 ## Tecnologías :zap:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/QGIS-red?style=plastic&logo=Qgis"> <img alt="Static Badge" src="https://img.shields.io/badge/DAX-orange?style=plastic&logo=dax"> <img alt="Static Badge" src="https://img.shields.io/badge/Power_Query_(M)-purple?style=plastic">
+<img alt="Static Badge" src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/QGIS-red?style=plastic&logo=Qgis"> <img alt="Static Badge" src="https://img.shields.io/badge/DAX-orange?style=plastic&logo=dax"> <img alt="Static Badge" src="https://img.shields.io/badge/PowerBi-yellow?style=plastic">
 
 [![My Skills](https://skillicons.dev/icons?i=python,git,vscode&theme=light)](https://skillicons.dev)
 
