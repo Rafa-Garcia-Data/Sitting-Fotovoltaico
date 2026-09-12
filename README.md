@@ -54,10 +54,9 @@ Score_Viabilidad (0-100) + Conditional Formatting
 Dashboard Interactivo (Mapas, KPIs, Tooltips, Cross-Filtering)
 ```
 
-- **Geospatial Mapping:** Interactive map visualization with precise centroid placement over high-resolution satellite imagery (Bing Aerial/Hybrid basemaps).
-- **Conditional Formatting & Legend Clustering:** Visual categorization by suitability score (gradient colors) and topographic classification.
-- **Interactive Tooltips:** Instant hover details displaying unique cadastral references (`nationalCadastralReference`), exact area, and power potential.
-- **Cross-Filtering:** Fully synchronized tables, KPIs, and geographic visuals for real-time site evaluation.
+- **Datos reales:** Referencias catastrales reales, descarga pública, gratuita y oficial.
+- **Escalable:** Puede aplicarse a cualquier localidad o región concreta, sólo hay que cambiar las referencias catastrales.
+- **Cero fricción:** Descarga el archivo del proyecto de PowerBI y ábrelo en Power BI Desktop.
 
 ## Estructura del proyecto :electric_plug:
 
